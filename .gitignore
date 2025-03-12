@@ -1,3 +1,7 @@
 myenv/
 
 .env
+
+stripe_sample.csv
+
+stripe_sample-checkpoint.csv
